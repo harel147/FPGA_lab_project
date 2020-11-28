@@ -1,0 +1,4 @@
+Warning (10268): Verilog HDL information at game_controller_all.sv(24): always construct contains both blocking and non-blocking assignments File: C:/Schematic/VGA/VGALabnoKBD_Students_25_11_20/rtl/VGA/game_controller_all.sv Line: 24
+Warning (10268): Verilog HDL information at square_object.sv(38): always construct contains both blocking and non-blocking assignments File: C:/Schematic/VGA/VGALabnoKBD_Students_25_11_20/rtl/VGA/square_object.sv Line: 38
+Warning (10268): Verilog HDL information at game_controller.sv(23): always construct contains both blocking and non-blocking assignments File: C:/Schematic/VGA/VGALabnoKBD_Students_25_11_20/rtl/VGA/game_controller.sv Line: 23
+Warning (10268): Verilog HDL information at smileyface_move.sv(61): always construct contains both blocking and non-blocking assignments File: C:/Schematic/VGA/VGALabnoKBD_Students_25_11_20/rtl/VGA/smileyface_move.sv Line: 61

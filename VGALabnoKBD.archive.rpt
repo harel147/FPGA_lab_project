@@ -1,0 +1,110 @@
+Archive Project report for VGALabnoKBD
+Wed Nov 25 18:49:18 2020
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Wed Nov 25 18:49:18 2020 ;
+; Revision Name          ; VGALabnoKBD                           ;
+; Top-level Entity Name  ; TOP_VGA_DEMO_noKBD                    ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/Schematic/VGA/VGALabnoKBD_Students_25_11_20/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Schematic/VGA/VGALabnoKBD_Students_25_11_20.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'VGALabnoKBD.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/17.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4747 megabytes
+    Info: Processing ended: Wed Nov 25 18:49:18 2020
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++-------------------------------------------------------+
+; Files Archived                                        ;
++-------------------------------------------------------+
+; File Name                                             ;
++-------------------------------------------------------+
+; assignment_defaults.qdf                               ;
+; constraints/DE10_Standard_Audio.sdc                   ;
+; constraints/pin.tcl                                   ;
+; db/stp5_auto_stripped.stp                             ;
+; DE10_Standard_Audio.sdc                               ;
+; rtl/audio_codec_controller/audio_codec_controller.qxp ;
+; rtl/KEYBOARD/random.sv                                ;
+; rtl/MSS/addr_counter.sv                               ;
+; rtl/MSS/data_conversion.sv                            ;
+; rtl/MSS/prescaler.sv                                  ;
+; rtl/MSS/SinTable.sv                                   ;
+; rtl/MSS/ToneDecoder.sv                                ;
+; rtl/MSS/TOP_MSS_DEMO.bdf                              ;
+; rtl/numberPosition.bsf                                ;
+; rtl/numberPosition.qip                                ;
+; rtl/numberPosition.v                                  ;
+; rtl/numberPosition_bb.v                               ;
+; rtl/numberPosition_inst.v                             ;
+; rtl/Seg7/SEG7.SV                                      ;
+; rtl/VGA/back_ground_drawSquare.sv                     ;
+; rtl/VGA/game_controller.sv                            ;
+; rtl/VGA/game_controller_all.sv                        ;
+; rtl/VGA/NumbersBitMap.sv                              ;
+; rtl/VGA/objects_mux.sv                                ;
+; rtl/VGA/objects_mux_all.sv                            ;
+; rtl/VGA/smileyBitMap.sv                               ;
+; rtl/VGA/smileyface_move.sv                            ;
+; rtl/VGA/smileyface_moveCollision.sv                   ;
+; rtl/VGA/square_object.sv                              ;
+; rtl/VGA/TOP_VGA_DEMO_noKBD.bdf                        ;
+; rtl/VGA/VGA_Controller.sv                             ;
+; stp4.stp                                              ;
+; stp5.stp                                              ;
+; VGALabnoKBD.qpf                                       ;
+; VGALabnoKBD.qsf                                       ;
++-------------------------------------------------------+
+
+
